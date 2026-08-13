@@ -1,0 +1,10 @@
+{
+  "description": "Connect volunteers through team formation, multimedia stories, and community features with a user-friendly, multilingual platform fostering empathy and collaboration.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
